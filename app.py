@@ -462,8 +462,7 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown("### ℹ️ Info")
-    st.caption("Simulación Monte Carlo con ratings Elo.
-Actualiza los resultados y recalcula desde tu PC.")
+    st.caption("Simulación Monte Carlo con ratings Elo. Actualiza los resultados y recalcula desde tu PC.")
     st.caption(f"v1.0 · Mayo 2026")
 
 
